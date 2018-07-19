@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body> <title></title></body>
+<h1 align="center"></h1>
+<h5 align="center"><em>The pen is mightier than a sword</em></h5>
+<br><ul>
+<li><a href="#Home"></a></li>>
+<li><a href="#New launches"></a></li>
+<li><a href="#Our authors"></a></li>
+</ul>
+<br><br>
+<h2 id="Home">HOME<h2>
+<strong>Welcome</strong>to <em>Authors World</em>.We are home to some of the finest writers and book authors.So dont hesitate to join our rapidly growing community.
+<br>
+To learn more about joining ,<a href="link goes here">click here</a>
+<br>
+<strong><h2>N</strong>ew <strong>W</strong>orld</h2>
+<ul>
+<li>Think and grow rich</li>
+<li>Body language</li>
+<li>RD sharma vol-I</li>
+<li>RD sharma vol-II</li>
+<li>Godfather series</li>
+<li>Sherlock: the complete book</li>
+</ul>
+<h2>
+</html>
